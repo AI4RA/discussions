@@ -1,67 +1,74 @@
-# AI4RA Discussions
+# AI4RA Technical Discussions
 
-This repository exists to host the public discussion space for AI4RA.
+This repository hosts GitHub Discussions for the technical assets AI4RA manages in this
+organization.
 
-AI4RA is a community of practice working to make research administration more open,
-interoperable, and trustworthy. This Discussions space is where research
-administrators, institutional leaders, data and systems teams, and technical
-collaborators can compare challenges, ask questions, share lessons, and help shape
-AI4RA's public work.
+Use this space for repository-specific questions, implementation discussion,
+documentation gaps, contribution paths, release feedback, and technical roadmapping for
+AI4RA-managed assets.
 
-## What this space is for
+This is not the general community conversation space for AI4RA. Broader community
+discussion belongs in the AI4RA Groups.io environment.
+
+## What belongs here
 
 Use AI4RA Discussions to:
 
-- ask questions about research administration workflows, interoperability, and AI use
-- share recurring pain points from your institution
-- compare implementation patterns, constraints, and lessons learned
-- propose ideas for future community resources or open-source work
-- surface governance, trust, and adoption questions early
+- ask how to use a repository, tool, prompt set, skill library, dataset, or workflow
+- ask where to start contributing to a repository
+- propose technical improvements to documentation, structure, evaluation, or release flow
+- discuss repository organization, interfaces, formats, schema choices, and integration points
+- share implementation experiments, usage examples, and contributor-facing lessons learned
 
-This repository is not the main home for AI4RA software. It is the conversation layer
-for the broader ecosystem.
+## What does not belong here
+
+Please use the broader AI4RA community channels, including Groups.io, for:
+
+- general networking and introductions
+- broad field conversations not tied to a specific AI4RA asset
+- community announcements that are not about a repository, release, or technical workflow
+- non-technical discussion better suited to the wider community of practice
 
 ## Where to post
 
 GitHub created the default discussion categories for this repository. Here is how they
-fit the AI4RA community:
+should be used for AI4RA's technical assets:
 
-- `Announcements`: official project updates, event notes, and important changes from maintainers
-- `General`: introductions, broad community conversation, and cross-cutting topics
-- `Q&A`: practical questions about workflows, tooling, documentation, or institutional challenges
-- `Ideas`: problems AI4RA should explore, feature requests, and open questions about future work
-- `Show and tell`: demos, prompts, workflows, examples, and lessons from your own practice
-- `Polls`: quick community input when maintainers want structured feedback
+- `Announcements`: maintainer updates about repositories, releases, migrations, or contribution process changes
+- `General`: cross-repo technical coordination and questions that do not fit a narrower category
+- `Q&A`: how-to questions about using an asset, running a workflow, understanding repo structure, or contributing
+- `Ideas`: proposals for technical improvements, new assets, documentation priorities, and contributor workflow changes
+- `Show and tell`: examples, prototypes, eval outputs, prompts, implementation notes, and integration experiments
+- `Polls`: targeted maintainer questions about technical direction or contributor priorities
 
-## A good discussion post usually includes
+## A useful technical discussion usually includes
 
-- the problem you are trying to solve
-- who is affected by it
-- how the work happens today
-- what a better outcome would look like
-- any constraints that matter, such as policy, staffing, privacy, or system limitations
+- the repository or asset involved
+- the task you are trying to complete
+- what you already tried
+- what was unclear, missing, or broken
+- environment details when relevant
+- links to the relevant files, issues, pull requests, or documentation
 
-If you are sharing screenshots, sample documents, or workflow details, please remove
-secrets, personal data, and institution-sensitive information before posting.
+Please remove secrets, credentials, personal data, and institution-sensitive source
+material before posting logs, screenshots, or examples.
 
 ## Good first ways to participate
 
-- introduce yourself in `General`
-- ask a question in `Q&A`
-- share a workflow pain point in `Ideas`
-- post a tool, pattern, or experiment in `Show and tell`
+- ask a usage question in `Q&A`
+- propose a documentation or developer-experience improvement in `Ideas`
+- share an implementation example in `Show and tell`
+- ask a cross-repo contributor question in `General`
 
 ## Related links
 
-- Website: [ai4ra.uidaho.edu](https://ai4ra.uidaho.edu)
-- Project overview: [About AI4RA](https://ai4ra.uidaho.edu/about/)
-- Contact: [ai4ra.uidaho.edu/contact](https://ai4ra.uidaho.edu/contact/)
-- Newsletters: [ai4ra.uidaho.edu/newsletters](https://ai4ra.uidaho.edu/newsletters/)
-- Public code: [AI4RA on GitHub](https://github.com/AI4RA)
+- AI4RA org: [github.com/AI4RA](https://github.com/AI4RA)
+- Discussions repo: [github.com/AI4RA/discussions](https://github.com/AI4RA/discussions)
 - Current public repository: [prompt-library](https://github.com/AI4RA/prompt-library)
+- Website: [ai4ra.uidaho.edu](https://ai4ra.uidaho.edu)
 
 ## Community standards
 
-AI4RA's shared community guidance applies here as well. Please be respectful, specific,
-and generous with context. Practitioner insight, technical detail, and institutional
-constraints are all valuable contributions.
+Keep posts specific, technically grounded, and respectful. Clear reproduction steps,
+examples, and repository context make this space much more useful for maintainers and
+contributors.
